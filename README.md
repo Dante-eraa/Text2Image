@@ -1,6 +1,6 @@
 # Text-to-Image Generator using Stability AI & React  
 
-This project is a **React & Node.js-based text-to-image generator** that uses the **Stability AI API** (Stable Diffusion) to generate images from user-provided text prompts.  
+This project is a **React & Node. Js-based text-to-image generator** that uses the **Stability AI API** (Stable Diffusion) to generate images from user-provided text prompts.  
 
 ## ✨ Features  
 - ✅ **Text-to-Image Generation** – Convert text prompts into AI-generated images  
@@ -31,7 +31,7 @@ This project is a **React & Node.js-based text-to-image generator** that uses th
  npm install
 ```
 
-### 3️⃣ Set up `.env` file:  
+### 3️⃣ Set up the `.env` file:  
 Create a `.env` file in the root directory and add:  
 ```plaintext
 STABILITY_API_KEY=your_api_key_here
@@ -55,4 +55,4 @@ STABILITY_API_KEY=your_api_key_here
 ## 🤝 Contributing  
 Feel free to fork this repository and submit pull requests with improvements! 🚀✨  
 
-**🔗 Repo URL:** [Your GitHub Repository Link]
+**🔗 Repo URL:** (https://github.com/Dante-eraa/Text2Image)
